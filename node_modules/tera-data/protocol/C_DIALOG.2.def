@@ -1,0 +1,7 @@
+# majorPatchVersion >= 92
+
+uint32 counter
+uint32 unk1
+uint32 id
+uint32 index
+uint64 unk2
