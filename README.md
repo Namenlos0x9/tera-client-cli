@@ -2,6 +2,7 @@
 # TERA Client
 
 ## Information
+### Working on Patch 93.03
 
 > Current supported regions: NA (En Masse), EU (Gameforge), RU (Destiny -> [early support](https://github.com/Kloct/tera-auth-ticket))
 
