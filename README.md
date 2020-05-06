@@ -1,7 +1,7 @@
+# NO SUPPORT!!!
 # TERA Client
 
 ## Information
-NO SUPPORT!!!
 
 > Current supported regions: NA (En Masse), EU (Gameforge), RU (Destiny -> [early support](https://github.com/Kloct/tera-auth-ticket))
 
